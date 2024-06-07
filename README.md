@@ -6,9 +6,9 @@
 <h3 align="center"> A passionate about Artificial Intelligent from Madagascar</h3>
 <br/>
 <div align="center">
-    <h1>👀 Currently working on Compunter vision project</h1>
-    <h1>🌱 I'm currently learning OpenCV and Tensorflow</h1>
-    <h1>👇 Wants to know more about me? Let's disccuss 👇 </h1>
+    <h1>👀 Currently working on Compunter vision project<br/>
+    🌱 I'm currently learning OpenCV and Tensorflow <br/>
+    👇 Wants to know more about me? Let's disccuss 👇 </h1>
 </div>
 
 <p align="center">
