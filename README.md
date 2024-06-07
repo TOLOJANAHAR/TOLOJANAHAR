@@ -3,12 +3,12 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤙;+I'm+Natacha!;"/>
     </a>
 </h1>
-<h3 align="center"> A passionate about Artificial Intelligent from Madagascar</h3>
+<h1 align="center"> A passionate about Artificial Intelligent from Madagascar</h1>
 <br/>
 <div align="center">
-    <h1>👀 Currently working on Compunter vision project<br/>
+    <h3>👀 Currently working on Compunter vision project<br/>
     🌱 I'm currently learning OpenCV and Tensorflow <br/>
-    👇 Wants to know more about me? Let's disccuss 👇 </h1>
+    👇 Wants to know more about me? Let's disccuss 👇 </h3>
 </div>
 
 <p align="center">
