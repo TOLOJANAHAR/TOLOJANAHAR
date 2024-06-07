@@ -1,3 +1,5 @@
+<img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/a3dbc1d7d0dbf774fb3c00baacfcb104/fire.gif" alt="header">
+
 <h1 align="center">Hey you! Welcome to my profile 👋</h1>
 
 <p align="center">
