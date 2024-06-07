@@ -17,13 +17,14 @@
     <a href="https://www.linkedin.com/in/tolojanahary-natacha-610b2a223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
     <a href="https://tn-natacha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-513a7a?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio"/></a>
 </p>
-
+ <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,scikitlearn,opencv,tensorflow,html,css" /> <br>
     <img src="https://skillicons.dev/icons?i=javascript,react,mui,vite,java,hibernate,mysql,firebase,figma,git"/><br>
 </div>
+ <hr/>
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake.svg" />
