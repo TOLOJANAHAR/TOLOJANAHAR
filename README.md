@@ -1,6 +1,7 @@
 <img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/a3dbc1d7d0dbf774fb3c00baacfcb104/fire.gif" alt="header">
 
-<h1 align="center">Hey you! Welcome to my profile 👋</h1>
+<h1 align="center">Hey you!👋</h1>
+<h1 align="center">Welcome to my profil </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
