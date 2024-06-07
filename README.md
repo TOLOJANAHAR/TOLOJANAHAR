@@ -5,8 +5,10 @@
 </h1>
 <h1 align="center"> A passionate about AI from Madagascar</h1>
 <br/>
-<p align="center">👀 Currently working on Compunter vision project<br/>
+<p align="center">👀 Currently working on Compunter vision project <br/>
+    
     🌱 I'm currently learning OpenCV and Tensorflow <br/>
+    
     👇 Wants to know more about me? Let's disccuss 👇 </p>
 
 <p align="center">
