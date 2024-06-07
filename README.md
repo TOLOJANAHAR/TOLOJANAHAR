@@ -25,10 +25,10 @@
     <img src="https://skillicons.dev/icons?i=javascript,react,mui,vite,java,hibernate,mysql,firebase,figma,git"/><br>
 </div>
  <hr/>
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake.svg" />
+</picture>
 <br/>
