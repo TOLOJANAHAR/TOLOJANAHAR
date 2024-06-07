@@ -3,6 +3,19 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤙;+I'm+Natacha!;"/>
     </a>
 </h1>
+<h3 align="center"> A passionate about Artificial Intelligent from Madagascar</h3>
+<br/>
+<div align="center">
+    👀 Currently working on **Compunter vision** project
+    🌱 I'm currently learning **OpenCV and Tensorflow**
+    ⚡ Wants to know more about me? Let's disccuss 
+</div>
+
+<p align="center">
+    <a href="mailto:tolojanaharynatachanoeline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+    <a href="https://www.linkedin.com/in/tolojanahary-natacha-610b2a223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+    <a href="https://tn-natacha.netlify.app/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -23,12 +36,5 @@
 
 </p>
 
-Contacts
-<p align="center">
-
-<a href="mailto:tolojanaharynatachanoeline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://www.linkedin.com/in/tolojanahary-natacha-610b2a223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-
-</p>
 
 <p align="center"> <img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/a3dbc1d7d0dbf774fb3c00baacfcb104/fire.gif" alt="header"></p>
