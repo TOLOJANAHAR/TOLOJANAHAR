@@ -24,6 +24,10 @@
     <img src="https://skillicons.dev/icons?i=python,scikitlearn,opencv,tensorflow,html,css" /> <br>
     <img src="https://skillicons.dev/icons?i=javascript,react,mui,vite,java,hibernate,mysql,firebase,figma,git"/><br>
 </div>
-
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 <br/>
-<p align="center"> <img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/a3dbc1d7d0dbf774fb3c00baacfcb104/fire.gif" alt="header"></p>
