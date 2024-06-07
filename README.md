@@ -5,11 +5,9 @@
 </h1>
 <h1 align="center"> A passionate about Artificial Intelligent from Madagascar</h1>
 <br/>
-<div align="center">
-    <h3>👀 Currently working on Compunter vision project<br/>
+<p align="center">👀 Currently working on Compunter vision project<br/>
     🌱 I'm currently learning OpenCV and Tensorflow <br/>
-    👇 Wants to know more about me? Let's disccuss 👇 </h3>
-</div>
+    👇 Wants to know more about me? Let's disccuss 👇 </p>
 
 <p align="center">
     <a href="mailto:tolojanaharynatachanoeline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
