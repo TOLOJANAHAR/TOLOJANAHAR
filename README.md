@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
  
- 💡 Currently learning **OpenCV and Tensorflow **
+ 💡 Currently learning **OpenCV and Tensorflow**
  
  ⚡ Actually working on **Computer vision Project**
 
