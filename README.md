@@ -4,11 +4,8 @@
     </a>
 </h1>
 <br/>
-<div align="center">
- 
- 💡 Currently learning **OpenCV and Tensorflow**
- 
- ⚡ Actually working on **Computer vision Project**
+<div align="center"> 
+ ⚡ Have any project ideas? **Let's get in touch!!**
 
  </div>
 
