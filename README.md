@@ -5,6 +5,7 @@
 </h1>
 <br/>
 <div align="center"> 
+    
  ⚡ Have any project ideas? **Let's get in touch!!**
 
  </div>
@@ -23,9 +24,4 @@
 </div>
  <hr/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TOLOJANAHAR/TOLOJANAHAR/output/github-contribution-grid-snake.svg" />
-</picture>
 <br/>
